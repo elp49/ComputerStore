@@ -31,8 +31,8 @@ Otero, Carlos E. "Abstract Factory." Software Engineering Design: Theory and
 ## Usage
 
 You may run the program using an IDE like Visual Studio or by running the
-provided batch file "run-client.bat". The batch script will compile and execute
-the program, and then delete the outputted executable file.
+provided batch file "RunComputerStore.bat". The batch script will compile and
+execute the program, and then delete the outputted executable file.
 
 Note: The batchfile uses "C:\Windows\Microsoft.NET\Framework\v4.0.30319\csc" to
 compile the program. If this compiler is not on your machine, you may use
